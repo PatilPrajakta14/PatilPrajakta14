@@ -102,7 +102,7 @@ appears on your GitHub profile.
 - **LinkedIn:** [Prajakta Patil](https://www.linkedin.com/in/prajakta-patil-cs/)
 - **GitHub:** [@PatilPrajakta14](https://github.com/PatilPrajakta14)
 - **Email:** [ppatil23@buffalo.edu](mailto:ppatil23@buffalo.edu)
-- 
+
 ---
 
 <p align="center">
