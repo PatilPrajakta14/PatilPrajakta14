@@ -6,7 +6,8 @@ appears on your GitHub profile.
 <h1 align="center">Hi there, I'm Prajakta Patil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
-  <em>MS in Computer Science & Engineering (AI/ML) @ University at Buffalo • AI/ML Enthusiast • Full Stack & Data Science Developer</em>
+  <em>MS in Computer Science & Engineering (AI/ML) @ University at Buffalo • AI/ML Enthusiast<br>
+  Actively seeking Summer'25 internship in Software Engineering and AI/ML</em>
 </p>
 
 <p align="center">
