@@ -24,6 +24,7 @@ appears on your GitHub profile.
 - 💬 **Ask me about:** Python, PySpark, React, Node.js, NLP, OCR, and AI model fine-tuning  
 - 🌐 **Looking for:** Internship opportunities in Data Science, AI/ML, and Software Engineering 
 - ⚡ **Fun Fact:** I love turning coffee into code!
+- 📄 **View My Resume:** [Resume](https://drive.google.com/file/d/1Q6JbhoZK0bjy1PeJrqFMqMl73VEN2dMU/view?pli=1)
 
 ---
 
@@ -82,13 +83,6 @@ appears on your GitHub profile.
 
 ---
 
-## Certifications
-- **AWS Academy Cloud Foundations** (AWS, Oct 2022)  
-- **Advance CPP** (IIT Bombay, Mar 2022)  
-- **Python 3.4.3** (IIT Bombay, Oct 2021)
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -108,10 +102,7 @@ appears on your GitHub profile.
 - **LinkedIn:** [Prajakta Patil](https://www.linkedin.com/in/prajakta-patil-cs/)
 - **GitHub:** [@PatilPrajakta14](https://github.com/PatilPrajakta14)
 - **Email:** [ppatil23@buffalo.edu](mailto:ppatil23@buffalo.edu)
-
-<!-- Optionally, add a link to your full resume -->
-[View my full resume](https://drive.google.com/file/d/1Q6JbhoZK0bjy1PeJrqFMqMl73VEN2dMU/view?pli=1)
-
+- 
 ---
 
 <p align="center">
